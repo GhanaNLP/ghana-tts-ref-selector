@@ -1,0 +1,3320 @@
+[
+  {
+    "id": 1,
+    "prompt_id": "ghana_prompt_0001",
+    "audio_file": "audio/prompt_0001_greeting_social_blessing.wav",
+    "english_text": "Thank you and may God bless you.",
+    "twi_text": "nyame nhyira wo nyame mma wo nyɛ kɛseɛ ɔmma",
+    "primary_category": "greeting_social",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "greeting",
+      "gratitude",
+      "blessing",
+      "gentle"
+    ],
+    "duration_sec": 4.88
+  },
+  {
+    "id": 2,
+    "prompt_id": "ghana_prompt_0002",
+    "audio_file": "audio/prompt_0002_conflict_confrontation_kill_denial.wav",
+    "english_text": "I know nothing about it. How can I kill my master?",
+    "twi_text": "mepa wo kyɛw menim ho hwee ɛbɛyɛ dɛn na matumi akum me ara mewɔ ghana",
+    "primary_category": "conflict_confrontation",
+    "emotion": "defensive_disbelief",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "defensive",
+      "intimidation",
+      "sharp"
+    ],
+    "duration_sec": 4.36
+  },
+  {
+    "id": 4,
+    "prompt_id": "ghana_prompt_0004",
+    "audio_file": "audio/prompt_0004_inquiry_investigation_crime_plea.wav",
+    "english_text": "I just want you to ask Alex what crime have i committed.",
+    "twi_text": "ma me sɛ bɔne bɛn ara na mede ayɛ no a m'anyɛ no firi ne nkwadaa be",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 5,
+    "prompt_id": "ghana_prompt_0005",
+    "audio_file": "audio/prompt_0005_command_warning_silencing.wav",
+    "english_text": "Keep quiet. Don't utter anymore words on it ever again.",
+    "twi_text": "madam yɛse menka ma obi nte bi mpo da na mereka no ata",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "silencing",
+      "commanding"
+    ],
+    "duration_sec": 7.68
+  },
+  {
+    "id": 6,
+    "prompt_id": "ghana_prompt_0006",
+    "audio_file": "audio/prompt_0006_inquiry_investigation_family.wav",
+    "english_text": "What about your mother.",
+    "twi_text": "a wo maame yɛ dɛn ei",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "family_matter",
+      "interrogative"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 8,
+    "prompt_id": "ghana_prompt_0008",
+    "audio_file": "audio/prompt_0008_conflict_confrontation_evidence.wav",
+    "english_text": "Do you have evidence?",
+    "twi_text": "mada",
+    "primary_category": "conflict_confrontation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "confrontation",
+      "curious",
+      "investigation",
+      "interrogative"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 9,
+    "prompt_id": "ghana_prompt_0009",
+    "audio_file": "audio/prompt_0009_command_warning_reassurance.wav",
+    "english_text": "Nana says come forward don't be afraid.",
+    "twi_text": "bra nim nsuro monhunu",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 10,
+    "prompt_id": "ghana_prompt_0010",
+    "audio_file": "audio/prompt_0010_wisdom_reflection_patience.wav",
+    "english_text": "The right time will come.",
+    "twi_text": "akurase baabi o mmerɛ no bɛso ebia ɔka woa",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "patience",
+      "reflective"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 11,
+    "prompt_id": "ghana_prompt_0011",
+    "audio_file": "audio/prompt_0011_conversational_banter_old_age.wav",
+    "english_text": "It is old age.",
+    "twi_text": "mpanimfoɔ yi deɛ ɛnyini oo sɛ nipa obi na ɛka n'asɛ nipa wongyina na ɛpɔ ɔbaa wo wedeɛ oh",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 7.24
+  },
+  {
+    "id": 13,
+    "prompt_id": "ghana_prompt_0013",
+    "audio_file": "audio/prompt_0013_emotional_expressive_mourning.wav",
+    "english_text": "You'd have been saddened if you'd seen the coffin used to bury him.",
+    "twi_text": "mese wohunu adaka bi sie ne nua anka ɛyɛ wo mmɔbɔ bra yɛ ansa na yɛresie no",
+    "primary_category": "emotional_expressive",
+    "emotion": "sorrow_grief",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "emotional_speech",
+      "sorrow",
+      "mourning",
+      "somber"
+    ],
+    "duration_sec": 8.16
+  },
+  {
+    "id": 14,
+    "prompt_id": "ghana_prompt_0014",
+    "audio_file": "audio/prompt_0014_conflict_confrontation_threat.wav",
+    "english_text": "If you don't want my trouble give me back my manhood",
+    "twi_text": "ho asɛm fa wo ho asɛm a sɛ ɔmpɛ wo ho asɛm a fa no adeɛ ma me ɛdeɛn na menfa mo",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 16,
+    "prompt_id": "ghana_prompt_0016",
+    "audio_file": "audio/prompt_0016_conflict_confrontation_threat_violence.wav",
+    "english_text": "Don't let me hit you. I don't want that.",
+    "twi_text": "sɛ woyɛ a mɛbɔ w'ani so mempɛ sɛ mɛbɔ ɔbaa wate",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 4.4
+  },
+  {
+    "id": 17,
+    "prompt_id": "ghana_prompt_0017",
+    "audio_file": "audio/prompt_0017_conversational_banter_shelter_eviction.wav",
+    "english_text": "He doesn't have anywhere to go and I can't admit him into my house.",
+    "twi_text": "ɔne baabi a ɔnkɔ da me nso deɛ mentumi ngye no wɔ me fie hɔ hmm",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 5.28
+  },
+  {
+    "id": 20,
+    "prompt_id": "ghana_prompt_0020",
+    "audio_file": "audio/prompt_0020_command_warning_angry_dismissal.wav",
+    "english_text": "Are you deaf? Leave this very minute.",
+    "twi_text": "me hɛ ɔno ara na ɛkum hɔ herh woahunu ɛna otumi adwuma huh firi ha kɔ",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "eviction",
+      "commanding"
+    ],
+    "duration_sec": 8.0
+  },
+  {
+    "id": 21,
+    "prompt_id": "ghana_prompt_0021",
+    "audio_file": "audio/prompt_0021_greeting_social_identity.wav",
+    "english_text": "She is Rose.",
+    "twi_text": "mepawokyew yɛfrɛ no boroos",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 3.68
+  },
+  {
+    "id": 22,
+    "prompt_id": "ghana_prompt_0022",
+    "audio_file": "audio/prompt_0022_inquiry_investigation_marriage.wav",
+    "english_text": "You want to marry me.",
+    "twi_text": "ɔbɛware",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "matrimonial",
+      "interrogative"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 24,
+    "prompt_id": "ghana_prompt_0024",
+    "audio_file": "audio/prompt_0024_inquiry_investigation_relationship.wav",
+    "english_text": "Meaning he's your lover?",
+    "twi_text": "na kyerɛ sɛ wompene no",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "affection",
+      "interrogative"
+    ],
+    "duration_sec": 1.6
+  },
+  {
+    "id": 25,
+    "prompt_id": "ghana_prompt_0025",
+    "audio_file": "audio/prompt_0025_emotional_expressive_intimacy.wav",
+    "english_text": "I couldn't sleep last night. I was thinking about you.",
+    "twi_text": "ɛnora anadwo mɛyɛ da mentumi anna ho adwendwen nkoaa",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "intimate_thought",
+      "gentle"
+    ],
+    "duration_sec": 7.2
+  },
+  {
+    "id": 26,
+    "prompt_id": "ghana_prompt_0026",
+    "audio_file": "audio/prompt_0026_wisdom_reflection_mourning.wav",
+    "english_text": "He will be burried.",
+    "twi_text": "na y'asie no",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.4
+  },
+  {
+    "id": 29,
+    "prompt_id": "ghana_prompt_0029",
+    "audio_file": "audio/prompt_0029_inquiry_investigation_training.wav",
+    "english_text": "We can train her well. It will take time.",
+    "twi_text": "sɛ wahunu mmienu na yɛbɛtumi atete o na ɛyɛ nkakrankakra wote aseɛ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 4.68
+  },
+  {
+    "id": 30,
+    "prompt_id": "ghana_prompt_0030",
+    "audio_file": "audio/prompt_0030_emotional_expressive_affection.wav",
+    "english_text": "Hurry up sweet heart what is the matter with you.",
+    "twi_text": "oh sweetheart",
+    "primary_category": "emotional_expressive",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "emotional_speech",
+      "playful",
+      "urgency",
+      "witty"
+    ],
+    "duration_sec": 4.2
+  },
+  {
+    "id": 31,
+    "prompt_id": "ghana_prompt_0031",
+    "audio_file": "audio/prompt_0031_inquiry_investigation_unemployment.wav",
+    "english_text": "He can't find a job to do.",
+    "twi_text": "ɔnnyɛ adwuma nyɛ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "sorrow_grief",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "inquiry",
+      "sorrow",
+      "employment",
+      "somber"
+    ],
+    "duration_sec": 1.48
+  },
+  {
+    "id": 33,
+    "prompt_id": "ghana_prompt_0033",
+    "audio_file": "audio/prompt_0033_inquiry_investigation_confusion.wav",
+    "english_text": "What are you talking about?",
+    "twi_text": "sister bɛn na woreka no saa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 34,
+    "prompt_id": "ghana_prompt_0034",
+    "audio_file": "audio/prompt_0034_inquiry_investigation_family.wav",
+    "english_text": "Are both your parents alive?",
+    "twi_text": "ɛnnɛ ne agya hɔ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 35,
+    "prompt_id": "ghana_prompt_0035",
+    "audio_file": "audio/prompt_0035_greeting_social_compliment.wav",
+    "english_text": "You're very intelligent.",
+    "twi_text": "yiaa wodeɛ wonim de",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 1.65
+  },
+  {
+    "id": 36,
+    "prompt_id": "ghana_prompt_0036",
+    "audio_file": "audio/prompt_0036_conversational_banter_authority.wav",
+    "english_text": "So i have all the right to do what i like in this house, I'm not a stranger in this house as you are saying.",
+    "twi_text": "wo tumi biara sɛ meba meba no fie a metumi yɛ no meba mennyɛ hɔhoɔ wɔ fie ha sɛnea wo sika no no",
+    "primary_category": "conversational_banter",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "colloquial_banter",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 6.92
+  },
+  {
+    "id": 37,
+    "prompt_id": "ghana_prompt_0037",
+    "audio_file": "audio/prompt_0037_conversational_banter_family.wav",
+    "english_text": "He sent his regards to you and his grandchildren.",
+    "twi_text": "ɔse ɔkyea wo ɔne ne nana ɔkyea obiara na ɔ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "family_matter"
+    ],
+    "duration_sec": 4.76
+  },
+  {
+    "id": 39,
+    "prompt_id": "ghana_prompt_0039",
+    "audio_file": "audio/prompt_0039_conflict_confrontation_surrender.wav",
+    "english_text": "You gave up.",
+    "twi_text": "bi ɛna wo boy",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "sharp"
+    ],
+    "duration_sec": 1.4
+  },
+  {
+    "id": 40,
+    "prompt_id": "ghana_prompt_0040",
+    "audio_file": "audio/prompt_0040_inquiry_investigation_alarm.wav",
+    "english_text": "What's going on?",
+    "twi_text": "ɛdeɛn na ɛrekɔso",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.44
+  },
+  {
+    "id": 42,
+    "prompt_id": "ghana_prompt_0042",
+    "audio_file": "audio/prompt_0042_conversational_banter_greeting.wav",
+    "english_text": "I'm here.",
+    "twi_text": "meboa ei",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.84
+  },
+  {
+    "id": 43,
+    "prompt_id": "ghana_prompt_0043",
+    "audio_file": "audio/prompt_0043_emotional_expressive_emotion.wav",
+    "english_text": "You said when we trust in you you will not put us to shame.",
+    "twi_text": "awurade sɛ wokaa sɛ wɔn a wodi w'ani to hɔ so no adeɛ nyinaa adi boayɛ na awie yɛ yie",
+    "primary_category": "emotional_expressive",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "gratitude",
+      "gentle"
+    ],
+    "duration_sec": 8.12
+  },
+  {
+    "id": 44,
+    "prompt_id": "ghana_prompt_0044",
+    "audio_file": "audio/prompt_0044_emotional_expressive_warning.wav",
+    "english_text": "You should have let him go.",
+    "twi_text": "anaa anka w'agyae",
+    "primary_category": "emotional_expressive",
+    "emotion": "remorse_contrition",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "emotional_speech",
+      "remorse",
+      "somber"
+    ],
+    "duration_sec": 1.16
+  },
+  {
+    "id": 45,
+    "prompt_id": "ghana_prompt_0045",
+    "audio_file": "audio/prompt_0045_command_warning_urgency.wav",
+    "english_text": "Please, hurry up.",
+    "twi_text": "masa",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "urgency",
+      "commanding"
+    ],
+    "duration_sec": 1.88
+  },
+  {
+    "id": 46,
+    "prompt_id": "ghana_prompt_0046",
+    "audio_file": "audio/prompt_0046_emotional_expressive_emotion.wav",
+    "english_text": "It might be my turn.",
+    "twi_text": "ɛbobɔ ba",
+    "primary_category": "emotional_expressive",
+    "emotion": "fear_anxiety",
+    "delivery_style": "distressed_breathless",
+    "sub_labels": [
+      "emotional_speech",
+      "fear",
+      "distressed"
+    ],
+    "duration_sec": 2.36
+  },
+  {
+    "id": 47,
+    "prompt_id": "ghana_prompt_0047",
+    "audio_file": "audio/prompt_0047_emotional_expressive_fear.wav",
+    "english_text": "If not I will always be scared.",
+    "twi_text": "ɛnyɛ sɛ ɔwɔ ha na yɛn bɛhyehy",
+    "primary_category": "emotional_expressive",
+    "emotion": "fear_anxiety",
+    "delivery_style": "distressed_breathless",
+    "sub_labels": [
+      "emotional_speech",
+      "fear",
+      "distressed"
+    ],
+    "duration_sec": 2.12
+  },
+  {
+    "id": 48,
+    "prompt_id": "ghana_prompt_0048",
+    "audio_file": "audio/prompt_0048_conflict_confrontation_kill_denial.wav",
+    "english_text": "You were about to kill.",
+    "twi_text": "sɛ worebɛku",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "intimidation",
+      "sharp"
+    ],
+    "duration_sec": 1.36
+  },
+  {
+    "id": 49,
+    "prompt_id": "ghana_prompt_0049",
+    "audio_file": "audio/prompt_0049_wisdom_reflection_lore.wav",
+    "english_text": "The body means nothing.",
+    "twi_text": "mode no deɛ ɛnka hwee",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.68
+  },
+  {
+    "id": 50,
+    "prompt_id": "ghana_prompt_0050",
+    "audio_file": "audio/prompt_0050_conversational_banter_reaction.wav",
+    "english_text": "Two of you don't give each other any breathing space at all.",
+    "twi_text": "ɛno deɛ mepɛ sɛ mframa bɛpae mo koraa se ei ɛnyɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 7.12
+  },
+  {
+    "id": 51,
+    "prompt_id": "ghana_prompt_0051",
+    "audio_file": "audio/prompt_0051_inquiry_investigation_family.wav",
+    "english_text": "Why is father causing so much trouble?",
+    "twi_text": "ɛdeɛn asɛm koraa na enti paapa nso ɔha adwene se",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "family_matter",
+      "interrogative"
+    ],
+    "duration_sec": 3.2
+  },
+  {
+    "id": 53,
+    "prompt_id": "ghana_prompt_0053",
+    "audio_file": "audio/prompt_0053_greeting_social_family.wav",
+    "english_text": "This is Dodzi and my in-law. How are you?",
+    "twi_text": "a ɛhɛɛ ɛna mo",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 2.8
+  },
+  {
+    "id": 54,
+    "prompt_id": "ghana_prompt_0054",
+    "audio_file": "audio/prompt_0054_conversational_banter_marriage.wav",
+    "english_text": "you can marry somebody else.",
+    "twi_text": "wo ba no fa kɔ ma wo barima foforɔ a w'aware ah ɛsɛ s",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "matrimonial"
+    ],
+    "duration_sec": 3.84
+  },
+  {
+    "id": 55,
+    "prompt_id": "ghana_prompt_0055",
+    "audio_file": "audio/prompt_0055_inquiry_investigation_inquiry.wav",
+    "english_text": "I don't also have the requisite documents.",
+    "twi_text": "me nso menni nkrataa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.52
+  },
+  {
+    "id": 56,
+    "prompt_id": "ghana_prompt_0056",
+    "audio_file": "audio/prompt_0056_wisdom_reflection_marriage.wav",
+    "english_text": "The marriage will come off.",
+    "twi_text": "efie awareɛ no bɛba",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "matrimonial",
+      "reflective"
+    ],
+    "duration_sec": 1.68
+  },
+  {
+    "id": 57,
+    "prompt_id": "ghana_prompt_0057",
+    "audio_file": "audio/prompt_0057_command_warning_warning.wav",
+    "english_text": "Stop whatever you are doing and go to him.",
+    "twi_text": "gya deɛ woyɛ biara ka kyerɛ deɛ ɔne no yɛ adwuma biara sɛ wokɔhwehwɛ me wɔfa deɛ ɔde wo ba aburokyire wo kunu",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 6.74
+  },
+  {
+    "id": 58,
+    "prompt_id": "ghana_prompt_0058",
+    "audio_file": "audio/prompt_0058_emotional_expressive_emotion.wav",
+    "english_text": "I don't care.",
+    "twi_text": "ma obi mmɛto so mehu obi mmɛto so aha",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 3.48
+  },
+  {
+    "id": 59,
+    "prompt_id": "ghana_prompt_0059",
+    "audio_file": "audio/prompt_0059_emotional_expressive_love_declaration.wav",
+    "english_text": "Oh! I love you just as I love my wife and children.",
+    "twi_text": "oh ɛbɛyɛ dɛn na wobɛhunu sɛ yɛ mpo asem medɔ wo tesɛ deɛ medɔ me mma ne me yerenom",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "family_matter",
+      "gentle"
+    ],
+    "duration_sec": 6.52
+  },
+  {
+    "id": 60,
+    "prompt_id": "ghana_prompt_0060",
+    "audio_file": "audio/prompt_0060_conversational_banter_reaction.wav",
+    "english_text": "This is strange.",
+    "twi_text": "ah asɛm",
+    "primary_category": "conversational_banter",
+    "emotion": "defensive_disbelief",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "colloquial_banter",
+      "defensive",
+      "sharp"
+    ],
+    "duration_sec": 2.8
+  },
+  {
+    "id": 61,
+    "prompt_id": "ghana_prompt_0061",
+    "audio_file": "audio/prompt_0061_emotional_expressive_remorse.wav",
+    "english_text": "I made a mistake.",
+    "twi_text": "na meyɛɛ mistake",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "apology",
+      "gentle"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 62,
+    "prompt_id": "ghana_prompt_0062",
+    "audio_file": "audio/prompt_0062_conversational_banter_family.wav",
+    "english_text": "Father.",
+    "twi_text": "paapa",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "family_matter"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 63,
+    "prompt_id": "ghana_prompt_0063",
+    "audio_file": "audio/prompt_0063_conflict_confrontation_accusation.wav",
+    "english_text": "Why are you becoming lazy?",
+    "twi_text": "ɛdeɛn kwadwo na ɛreba wo so",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "sharp"
+    ],
+    "duration_sec": 1.8
+  },
+  {
+    "id": 64,
+    "prompt_id": "ghana_prompt_0064",
+    "audio_file": "audio/prompt_0064_inquiry_investigation_inquiry.wav",
+    "english_text": "Where did you meet the man?",
+    "twi_text": "na barima no wonhu",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 3.32
+  },
+  {
+    "id": 65,
+    "prompt_id": "ghana_prompt_0065",
+    "audio_file": "audio/prompt_0065_command_warning_shelter_eviction.wav",
+    "english_text": "Leave this house.",
+    "twi_text": "masa ase akwasi sompe no nti",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "eviction",
+      "commanding"
+    ],
+    "duration_sec": 2.4
+  },
+  {
+    "id": 66,
+    "prompt_id": "ghana_prompt_0066",
+    "audio_file": "audio/prompt_0066_wisdom_reflection_family.wav",
+    "english_text": "My father has decided to trouble us",
+    "twi_text": "me papa wayɛ n'adwene sɛ ɔbɛha yɛ",
+    "primary_category": "wisdom_reflection",
+    "emotion": "sorrow_grief",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "wisdom_counsel",
+      "sorrow",
+      "family_matter",
+      "somber"
+    ],
+    "duration_sec": 2.16
+  },
+  {
+    "id": 70,
+    "prompt_id": "ghana_prompt_0070",
+    "audio_file": "audio/prompt_0070_conflict_confrontation_lore.wav",
+    "english_text": "You are evil to take advantage of your brother in law.",
+    "twi_text": "wonni suban wonni suban obi mma wo adwuma nyɛ na fa yɛ kyenkyene woba a na wo me mma wo ho so wo",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "moral_rebuke",
+      "sharp"
+    ],
+    "duration_sec": 7.28
+  },
+  {
+    "id": 71,
+    "prompt_id": "ghana_prompt_0071",
+    "audio_file": "audio/prompt_0071_command_warning_warning.wav",
+    "english_text": "Be careful, lady.",
+    "twi_text": "ne fie owuraba ɔwui",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 3.24
+  },
+  {
+    "id": 72,
+    "prompt_id": "ghana_prompt_0072",
+    "audio_file": "audio/prompt_0072_negotiation_trade_trade_bargain.wav",
+    "english_text": "So he can only get coins.",
+    "twi_text": "nti no ɔbɛnya kwa",
+    "primary_category": "negotiation_trade",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "negotiation",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.84
+  },
+  {
+    "id": 73,
+    "prompt_id": "ghana_prompt_0073",
+    "audio_file": "audio/prompt_0073_emotional_expressive_emotion.wav",
+    "english_text": "I am just asking for something just to relieve me.",
+    "twi_text": "biribiara ma me woteaseɛ nneɛma mmienu bɛn na me ho mfa me ho mmra na me nso wote",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 74,
+    "prompt_id": "ghana_prompt_0074",
+    "audio_file": "audio/prompt_0074_wisdom_reflection_lore.wav",
+    "english_text": "I chose a curse.",
+    "twi_text": "mafa musu",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.16
+  },
+  {
+    "id": 76,
+    "prompt_id": "ghana_prompt_0076",
+    "audio_file": "audio/prompt_0076_emotional_expressive_emotion.wav",
+    "english_text": "What have I done to deserve this humiliation.",
+    "twi_text": "ɛdeɛn na mede ayɛ wo a wofo m'anim asesa",
+    "primary_category": "emotional_expressive",
+    "emotion": "fear_anxiety",
+    "delivery_style": "distressed_breathless",
+    "sub_labels": [
+      "emotional_speech",
+      "fear",
+      "distressed"
+    ],
+    "duration_sec": 3.6
+  },
+  {
+    "id": 78,
+    "prompt_id": "ghana_prompt_0078",
+    "audio_file": "audio/prompt_0078_emotional_expressive_emotion.wav",
+    "english_text": "She's no longer going to be my responsibility.",
+    "twi_text": "wobɛfiri me so",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "family_matter",
+      "gentle"
+    ],
+    "duration_sec": 1.76
+  },
+  {
+    "id": 79,
+    "prompt_id": "ghana_prompt_0079",
+    "audio_file": "audio/prompt_0079_inquiry_investigation_inquiry.wav",
+    "english_text": "He's from this town?",
+    "twi_text": "wofiri kuro mu ha",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.4
+  },
+  {
+    "id": 80,
+    "prompt_id": "ghana_prompt_0080",
+    "audio_file": "audio/prompt_0080_inquiry_investigation_greeting.wav",
+    "english_text": "So we passed by to see how you are doing?",
+    "twi_text": "nti yɛnfa na at least no ɛbɛhwɛ sɛ ɛɛm asetena mu te sɛn ɔbɛyɛ full sukuu a na",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 6.16
+  },
+  {
+    "id": 81,
+    "prompt_id": "ghana_prompt_0081",
+    "audio_file": "audio/prompt_0081_command_warning_warning.wav",
+    "english_text": "Get up.",
+    "twi_text": "oh gyama sɔre sɔre ah",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 83,
+    "prompt_id": "ghana_prompt_0083",
+    "audio_file": "audio/prompt_0083_inquiry_investigation_urgency.wav",
+    "english_text": "Hurry and prepare fufu for me I'm hungry.",
+    "twi_text": "nti yɛ na ka fufuo no bi ma me mate wae mesrɛ wo ka no ntɛm na ɛkɔm de me kɔ adwuma no di",
+    "primary_category": "inquiry_investigation",
+    "emotion": "urgent_alarmed",
+    "delivery_style": "urgent_fast",
+    "sub_labels": [
+      "inquiry",
+      "urgent",
+      "urgency"
+    ],
+    "duration_sec": 7.24
+  },
+  {
+    "id": 86,
+    "prompt_id": "ghana_prompt_0086",
+    "audio_file": "audio/prompt_0086_inquiry_investigation_emotion.wav",
+    "english_text": "Why did you slap the child that way",
+    "twi_text": "akwadaa no nso saa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "family_matter",
+      "interrogative"
+    ],
+    "duration_sec": 2.32
+  },
+  {
+    "id": 88,
+    "prompt_id": "ghana_prompt_0088",
+    "audio_file": "audio/prompt_0088_conversational_banter_reaction.wav",
+    "english_text": "No matter how long he worked, I am also working.",
+    "twi_text": "ɔde ɔyɛɛ adwuma kɔ hene ɛna ɔkɔ hene hene hene kɔ hene hene a me ɔde me baeɛ maame da o",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "livelihood"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 90,
+    "prompt_id": "ghana_prompt_0090",
+    "audio_file": "audio/prompt_0090_inquiry_investigation_reaction.wav",
+    "english_text": "Can't I nap in the afternoon?",
+    "twi_text": "mese menni aduana",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 92,
+    "prompt_id": "ghana_prompt_0092",
+    "audio_file": "audio/prompt_0092_conversational_banter_reaction.wav",
+    "english_text": "Nobody is competing with me.",
+    "twi_text": "no obiaa ne me mpene ho",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.88
+  },
+  {
+    "id": 93,
+    "prompt_id": "ghana_prompt_0093",
+    "audio_file": "audio/prompt_0093_inquiry_investigation_inquiry.wav",
+    "english_text": "Have I done something wrong?",
+    "twi_text": "adɛn mayɛ biribi anaa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "remorse_contrition",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "inquiry",
+      "remorse",
+      "apology",
+      "somber"
+    ],
+    "duration_sec": 1.72
+  },
+  {
+    "id": 94,
+    "prompt_id": "ghana_prompt_0094",
+    "audio_file": "audio/prompt_0094_wisdom_reflection_patience.wav",
+    "english_text": "I know a powerful man of God who can help us.",
+    "twi_text": "nyim nyame nipa bi anaa ano yɛ nom papaapo botum aboa hene",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "patience",
+      "reflective"
+    ],
+    "duration_sec": 5.32
+  },
+  {
+    "id": 96,
+    "prompt_id": "ghana_prompt_0096",
+    "audio_file": "audio/prompt_0096_inquiry_investigation_inquiry.wav",
+    "english_text": "Why is he still doing this?",
+    "twi_text": "awia no na ɔreyɛ saa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 97,
+    "prompt_id": "ghana_prompt_0097",
+    "audio_file": "audio/prompt_0097_inquiry_investigation_inquiry.wav",
+    "english_text": "Who is it?",
+    "twi_text": "hwan a",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.56
+  },
+  {
+    "id": 98,
+    "prompt_id": "ghana_prompt_0098",
+    "audio_file": "audio/prompt_0098_inquiry_investigation_inquiry.wav",
+    "english_text": "How beneficial has my coming been?",
+    "twi_text": "nti mebaeɛ no na ɛyɛ anaa sɛ mamma",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 3.6
+  },
+  {
+    "id": 99,
+    "prompt_id": "ghana_prompt_0099",
+    "audio_file": "audio/prompt_0099_inquiry_investigation_reaction.wav",
+    "english_text": "Really?",
+    "twi_text": "saa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.08
+  },
+  {
+    "id": 101,
+    "prompt_id": "ghana_prompt_0101",
+    "audio_file": "audio/prompt_0101_inquiry_investigation_inquiry.wav",
+    "english_text": "Why not?",
+    "twi_text": "adɛn",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.12
+  },
+  {
+    "id": 103,
+    "prompt_id": "ghana_prompt_0103",
+    "audio_file": "audio/prompt_0103_emotional_expressive_emotion.wav",
+    "english_text": "I don't want to forget my wife and daughter.",
+    "twi_text": "ama me werɛ a mefiri me yere ne meba mesrɛ wo a ne deɛ m'ani da hɔ kum",
+    "primary_category": "emotional_expressive",
+    "emotion": "fear_anxiety",
+    "delivery_style": "distressed_breathless",
+    "sub_labels": [
+      "emotional_speech",
+      "fear",
+      "distressed"
+    ],
+    "duration_sec": 4.84
+  },
+  {
+    "id": 104,
+    "prompt_id": "ghana_prompt_0104",
+    "audio_file": "audio/prompt_0104_wisdom_reflection_marriage.wav",
+    "english_text": "We will call you and marry you.",
+    "twi_text": "na yɛbɛfrɛ wo na y'ayɛ wo ho adeɛ",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.12
+  },
+  {
+    "id": 105,
+    "prompt_id": "ghana_prompt_0105",
+    "audio_file": "audio/prompt_0105_greeting_social_greeting.wav",
+    "english_text": "You are very beautiful and I want you to learn hard.",
+    "twi_text": "wo ho yɛ fɛ mepɛ sɛ asua ase sɛ america no okay",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 4.24
+  },
+  {
+    "id": 106,
+    "prompt_id": "ghana_prompt_0106",
+    "audio_file": "audio/prompt_0106_conversational_banter_marriage.wav",
+    "english_text": "It is true you brought me here to marry you.",
+    "twi_text": "ɛwom sɛ wo anaa tumi kaa sɛ me mɛboa wo w'asetena mu sɛ awareɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 6.2
+  },
+  {
+    "id": 108,
+    "prompt_id": "ghana_prompt_0108",
+    "audio_file": "audio/prompt_0108_wisdom_reflection_patience.wav",
+    "english_text": "You have to be patient sometimes. He is pathetic.",
+    "twi_text": "hmm dufie ɛtu obi a ɛsɛsɛ wose wonyaa ahokyerɛ sometimes you have to listen to people",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "patience",
+      "reflective"
+    ],
+    "duration_sec": 5.8
+  },
+  {
+    "id": 109,
+    "prompt_id": "ghana_prompt_0109",
+    "audio_file": "audio/prompt_0109_conflict_confrontation_combat.wav",
+    "english_text": "I think the simplest way is to eliminate him through a curse.",
+    "twi_text": "mepɛsɛ asɛm bi a ɛda kwan abuser obiara no",
+    "primary_category": "conflict_confrontation",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "confrontation",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 5.6
+  },
+  {
+    "id": 110,
+    "prompt_id": "ghana_prompt_0110",
+    "audio_file": "audio/prompt_0110_conversational_banter_reaction.wav",
+    "english_text": "We can all cook.",
+    "twi_text": "obiara noa obiara woba na ɛkɔm de wo ano awura kitchen na wayɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 5.12
+  },
+  {
+    "id": 111,
+    "prompt_id": "ghana_prompt_0111",
+    "audio_file": "audio/prompt_0111_inquiry_investigation_marriage.wav",
+    "english_text": "When will you come and marry me? Do you want me to get to my menopause?",
+    "twi_text": "twe baabi a akwadaa yi adu wobɛyɛ saa na m'awo akyɛ kɔ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "inquiry",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 5.99
+  },
+  {
+    "id": 112,
+    "prompt_id": "ghana_prompt_0112",
+    "audio_file": "audio/prompt_0112_conversational_banter_reaction.wav",
+    "english_text": "What you are saying is very pathetic.",
+    "twi_text": "sɛ asɛm na woreka no ɔbrɛ no very part",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 3.48
+  },
+  {
+    "id": 113,
+    "prompt_id": "ghana_prompt_0113",
+    "audio_file": "audio/prompt_0113_emotional_expressive_emotion.wav",
+    "english_text": "You won't die.",
+    "twi_text": "mmm",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 1.4
+  },
+  {
+    "id": 115,
+    "prompt_id": "ghana_prompt_0115",
+    "audio_file": "audio/prompt_0115_conversational_banter_reaction.wav",
+    "english_text": "He was so angry.",
+    "twi_text": "hɛ ne bo afu",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.08
+  },
+  {
+    "id": 116,
+    "prompt_id": "ghana_prompt_0116",
+    "audio_file": "audio/prompt_0116_inquiry_investigation_inquiry.wav",
+    "english_text": "That is why I don't normally go there?",
+    "twi_text": "ɛnyɛ asɛm ketewa o mmm sɛ ne ho nti no ɛyɛ a na mempɛ hɔ komm",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 8.4
+  },
+  {
+    "id": 117,
+    "prompt_id": "ghana_prompt_0117",
+    "audio_file": "audio/prompt_0117_conversational_banter_reaction.wav",
+    "english_text": "It's one of the things he does.",
+    "twi_text": "sɛ nneɛma no a woreyɛ yie no bi o",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.12
+  },
+  {
+    "id": 118,
+    "prompt_id": "ghana_prompt_0118",
+    "audio_file": "audio/prompt_0118_inquiry_investigation_inquiry.wav",
+    "english_text": "Have you seen that today?",
+    "twi_text": "suahu sɛ ɛnnɛ deɛ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.84
+  },
+  {
+    "id": 119,
+    "prompt_id": "ghana_prompt_0119",
+    "audio_file": "audio/prompt_0119_conversational_banter_reaction.wav",
+    "english_text": "We won't stay for long.",
+    "twi_text": "yɛnkyerɛ wo",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.12
+  },
+  {
+    "id": 120,
+    "prompt_id": "ghana_prompt_0120",
+    "audio_file": "audio/prompt_0120_conversational_banter_kill_denial.wav",
+    "english_text": "But I stopped you from killing.",
+    "twi_text": "sɛ m'anya a mewu anku",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "intimidation"
+    ],
+    "duration_sec": 2.24
+  },
+  {
+    "id": 121,
+    "prompt_id": "ghana_prompt_0121",
+    "audio_file": "audio/prompt_0121_conversational_banter_family.wav",
+    "english_text": "Besides, your father is old. It is old age.",
+    "twi_text": "hwɛ na bisa wo papa yi sɛ woanyini ɛyɛ nyini wo papa no ankasa wonim sɛ wanyini",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "family_matter"
+    ],
+    "duration_sec": 7.2
+  },
+  {
+    "id": 122,
+    "prompt_id": "ghana_prompt_0122",
+    "audio_file": "audio/prompt_0122_command_warning_warning.wav",
+    "english_text": "Think about it.",
+    "twi_text": "a dwene ho odwen ho",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 3.04
+  },
+  {
+    "id": 123,
+    "prompt_id": "ghana_prompt_0123",
+    "audio_file": "audio/prompt_0123_wisdom_reflection_lore.wav",
+    "english_text": "This is what we wanted.",
+    "twi_text": "nea yɛhwehwɛɛ",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.07
+  },
+  {
+    "id": 124,
+    "prompt_id": "ghana_prompt_0124",
+    "audio_file": "audio/prompt_0124_wisdom_reflection_lore.wav",
+    "english_text": "They are powerful.",
+    "twi_text": "ei ɔmo tumi tease hɛɛ mmaa",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 4.4
+  },
+  {
+    "id": 125,
+    "prompt_id": "ghana_prompt_0125",
+    "audio_file": "audio/prompt_0125_greeting_social_gratitude.wav",
+    "english_text": "Thank you, gods of our land.",
+    "twi_text": "nana meda mo ase ei",
+    "primary_category": "greeting_social",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "greeting",
+      "gratitude",
+      "gentle"
+    ],
+    "duration_sec": 2.82
+  },
+  {
+    "id": 126,
+    "prompt_id": "ghana_prompt_0126",
+    "audio_file": "audio/prompt_0126_wisdom_reflection_lore.wav",
+    "english_text": "I will shortly part ways with poverty.",
+    "twi_text": "sesei kakra deɛ ɔhia ntam kwan deɛ wei yesu din mu metwa mu kwan",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 127,
+    "prompt_id": "ghana_prompt_0127",
+    "audio_file": "audio/prompt_0127_wisdom_reflection_reaction.wav",
+    "english_text": "It's ok!",
+    "twi_text": "mate me",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.76
+  },
+  {
+    "id": 128,
+    "prompt_id": "ghana_prompt_0128",
+    "audio_file": "audio/prompt_0128_inquiry_investigation_inquiry.wav",
+    "english_text": "Which curse?",
+    "twi_text": "ɔno nsuo b",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.12
+  },
+  {
+    "id": 129,
+    "prompt_id": "ghana_prompt_0129",
+    "audio_file": "audio/prompt_0129_inquiry_investigation_inquiry.wav",
+    "english_text": "What's the matter?",
+    "twi_text": "yɛbaa asɛm",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 132,
+    "prompt_id": "ghana_prompt_0132",
+    "audio_file": "audio/prompt_0132_conversational_banter_reaction.wav",
+    "english_text": "That's the right thing to do.",
+    "twi_text": "ɛnoa nono",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 133,
+    "prompt_id": "ghana_prompt_0133",
+    "audio_file": "audio/prompt_0133_conversational_banter_reaction.wav",
+    "english_text": "He will understand.",
+    "twi_text": "deɛ menni ase woka biribi ɔbɛte aseɛ maa",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 3.88
+  },
+  {
+    "id": 134,
+    "prompt_id": "ghana_prompt_0134",
+    "audio_file": "audio/prompt_0134_emotional_expressive_emotion.wav",
+    "english_text": "I'm so much annoyed.",
+    "twi_text": "kyerɛ sɛ ahomete",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 3.24
+  },
+  {
+    "id": 135,
+    "prompt_id": "ghana_prompt_0135",
+    "audio_file": "audio/prompt_0135_inquiry_investigation_warning.wav",
+    "english_text": "He doesn't know where to find you. Please go and see him.",
+    "twi_text": "ɔno nso wonnim baabi a ɔbɛnya ho mesrɛ wo meba abusua manso biara baabi a papa no obi afa car kɔhwehwɛ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 7.82
+  },
+  {
+    "id": 136,
+    "prompt_id": "ghana_prompt_0136",
+    "audio_file": "audio/prompt_0136_conversational_banter_reaction.wav",
+    "english_text": "She resembles you.",
+    "twi_text": "na wo ne wo foto",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.92
+  },
+  {
+    "id": 137,
+    "prompt_id": "ghana_prompt_0137",
+    "audio_file": "audio/prompt_0137_inquiry_investigation_inquiry.wav",
+    "english_text": "And he wooed you?",
+    "twi_text": "ɛna ɔyɛɛ wo line",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.72
+  },
+  {
+    "id": 139,
+    "prompt_id": "ghana_prompt_0139",
+    "audio_file": "audio/prompt_0139_wisdom_reflection_family.wav",
+    "english_text": "He is the father of my child so he can't be ungrateful to me.",
+    "twi_text": "me ne no ɔba nti no ɔnyɛ adeɛ ɔno ɔbɛtumi ayɛ bɔne",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "family_matter",
+      "reflective"
+    ],
+    "duration_sec": 3.64
+  },
+  {
+    "id": 140,
+    "prompt_id": "ghana_prompt_0140",
+    "audio_file": "audio/prompt_0140_conflict_confrontation_combat.wav",
+    "english_text": "They will hear from me later.",
+    "twi_text": "enti letter no ɔbɛte ne nka wae",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 3.12
+  },
+  {
+    "id": 142,
+    "prompt_id": "ghana_prompt_0142",
+    "audio_file": "audio/prompt_0142_emotional_expressive_emotion.wav",
+    "english_text": "Look at us today, we are hustling our way on foot.",
+    "twi_text": "sɛ wofa nyinaa nka yɛkɔ fie no yɛ nenam fam ɛna",
+    "primary_category": "emotional_expressive",
+    "emotion": "sorrow_grief",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "emotional_speech",
+      "sorrow",
+      "somber"
+    ],
+    "duration_sec": 4.32
+  },
+  {
+    "id": 145,
+    "prompt_id": "ghana_prompt_0145",
+    "audio_file": "audio/prompt_0145_wisdom_reflection_lore.wav",
+    "english_text": "Three days ago, you didn't go to work",
+    "twi_text": "ansa na wankɔ adwuma",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "livelihood",
+      "reflective"
+    ],
+    "duration_sec": 1.76
+  },
+  {
+    "id": 146,
+    "prompt_id": "ghana_prompt_0146",
+    "audio_file": "audio/prompt_0146_wisdom_reflection_lore.wav",
+    "english_text": "I've not performed marital rites on her.",
+    "twi_text": "wɔfa menyɛ ne ho adeɛ o wonim woahunu menyɛ ne ho",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 3.36
+  },
+  {
+    "id": 147,
+    "prompt_id": "ghana_prompt_0147",
+    "audio_file": "audio/prompt_0147_conversational_banter_reaction.wav",
+    "english_text": "I can't accomodate him.",
+    "twi_text": "no mɛtumi asɛm",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.88
+  },
+  {
+    "id": 148,
+    "prompt_id": "ghana_prompt_0148",
+    "audio_file": "audio/prompt_0148_emotional_expressive_emotion.wav",
+    "english_text": "So I don't even know what to do.",
+    "twi_text": "enti menhunu nea menyɛ koraa",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 2.16
+  },
+  {
+    "id": 149,
+    "prompt_id": "ghana_prompt_0149",
+    "audio_file": "audio/prompt_0149_command_warning_warning.wav",
+    "english_text": "Give him the due respect.",
+    "twi_text": "enti anidie biara a ɛsɛsɛ wode ma nyankopɔn no fa ma wo kunu",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 5.28
+  },
+  {
+    "id": 150,
+    "prompt_id": "ghana_prompt_0150",
+    "audio_file": "audio/prompt_0150_command_warning_money_bargain.wav",
+    "english_text": "I hope you don't come to me to ask for money for shopping.",
+    "twi_text": "shopping woate",
+    "primary_category": "command_warning",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "directive",
+      "curious",
+      "financial",
+      "interrogative"
+    ],
+    "duration_sec": 3.92
+  },
+  {
+    "id": 151,
+    "prompt_id": "ghana_prompt_0151",
+    "audio_file": "audio/prompt_0151_inquiry_investigation_inquiry.wav",
+    "english_text": "Are you twenty-two like him?",
+    "twi_text": "wowɔ aduonu mmienu a",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 152,
+    "prompt_id": "ghana_prompt_0152",
+    "audio_file": "audio/prompt_0152_inquiry_investigation_inquiry.wav",
+    "english_text": "I have something to discuss with you",
+    "twi_text": "ahaa paapa nkɔmɔ wɔ hɔ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 153,
+    "prompt_id": "ghana_prompt_0153",
+    "audio_file": "audio/prompt_0153_command_warning_warning.wav",
+    "english_text": "Come and listen to me.",
+    "twi_text": "bra bra bra menka",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 1.96
+  },
+  {
+    "id": 154,
+    "prompt_id": "ghana_prompt_0154",
+    "audio_file": "audio/prompt_0154_inquiry_investigation_inquiry.wav",
+    "english_text": "So do this in her honor, ok?",
+    "twi_text": "nti yɛ wei nso na animuonyam wate",
+    "primary_category": "inquiry_investigation",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "inquiry",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 2.36
+  },
+  {
+    "id": 157,
+    "prompt_id": "ghana_prompt_0157",
+    "audio_file": "audio/prompt_0157_inquiry_investigation_inquiry.wav",
+    "english_text": "Is he asking you to take it or what?",
+    "twi_text": "ah na ɔse fa anaa sɛ sɛn",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 161,
+    "prompt_id": "ghana_prompt_0161",
+    "audio_file": "audio/prompt_0161_conversational_banter_reaction.wav",
+    "english_text": "There's always something to discuss.",
+    "twi_text": "dabiara nkɔm",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.48
+  },
+  {
+    "id": 162,
+    "prompt_id": "ghana_prompt_0162",
+    "audio_file": "audio/prompt_0162_conversational_banter_reaction.wav",
+    "english_text": "This not a matter of calm.",
+    "twi_text": "ɛnyɛ aboterɛ asɛm",
+    "primary_category": "conversational_banter",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "colloquial_banter",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 1.32
+  },
+  {
+    "id": 163,
+    "prompt_id": "ghana_prompt_0163",
+    "audio_file": "audio/prompt_0163_negotiation_trade_trade_bargain.wav",
+    "english_text": "It is not all that new.",
+    "twi_text": "ɛnhyɛda nyɛ ɔwɔ that ayi saa",
+    "primary_category": "negotiation_trade",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "negotiation",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.92
+  },
+  {
+    "id": 164,
+    "prompt_id": "ghana_prompt_0164",
+    "audio_file": "audio/prompt_0164_conversational_banter_reaction.wav",
+    "english_text": "But you have different body structure.",
+    "twi_text": "nanso mo nipadua nyɛ pɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 165,
+    "prompt_id": "ghana_prompt_0165",
+    "audio_file": "audio/prompt_0165_emotional_expressive_emotion.wav",
+    "english_text": "You are now my boyfriend.",
+    "twi_text": "seesei ara me boy no o",
+    "primary_category": "emotional_expressive",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "emotional_speech",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 1.8
+  },
+  {
+    "id": 166,
+    "prompt_id": "ghana_prompt_0166",
+    "audio_file": "audio/prompt_0166_conflict_confrontation_emotion.wav",
+    "english_text": "I have told you that, it was a frame up. It is not true.",
+    "twi_text": "me adeɛ madi kan aka akyerɛ wo sɛ yɛntwa to soɔ ɛna ɔba yi ato me so enti saa",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 168,
+    "prompt_id": "ghana_prompt_0168",
+    "audio_file": "audio/prompt_0168_conflict_confrontation_money_bargain.wav",
+    "english_text": "You are annoying me I'm going to get you money to pack out of here.",
+    "twi_text": "ɛhɔ na woda no worehyɛ me a sɛ wate worehyɛ me abufuo infact merekɔ akɔfa sika abrɔ ama w'atu afiri wiase sɛ wate",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "eviction",
+      "financial"
+    ],
+    "duration_sec": 7.84
+  },
+  {
+    "id": 169,
+    "prompt_id": "ghana_prompt_0169",
+    "audio_file": "audio/prompt_0169_emotional_expressive_lore.wav",
+    "english_text": "At times too I see something like ghost.",
+    "twi_text": "ebi wɔ hɔ nso a menhunu te sɛ saman",
+    "primary_category": "emotional_expressive",
+    "emotion": "fear_anxiety",
+    "delivery_style": "distressed_breathless",
+    "sub_labels": [
+      "emotional_speech",
+      "fear",
+      "distressed"
+    ],
+    "duration_sec": 4.52
+  },
+  {
+    "id": 170,
+    "prompt_id": "ghana_prompt_0170",
+    "audio_file": "audio/prompt_0170_wisdom_reflection_emotion.wav",
+    "english_text": "Please, don't be bothered.",
+    "twi_text": "me pa wo kyɛw mmarima biribiara nha wo",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.52
+  },
+  {
+    "id": 171,
+    "prompt_id": "ghana_prompt_0171",
+    "audio_file": "audio/prompt_0171_command_warning_warning.wav",
+    "english_text": "Look at his stature.",
+    "twi_text": "sɛdeɛ ɔno ankasa teɛ",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 172,
+    "prompt_id": "ghana_prompt_0172",
+    "audio_file": "audio/prompt_0172_inquiry_investigation_inquiry.wav",
+    "english_text": "God revealed himself to you?",
+    "twi_text": "onyame na ɛyi ne ho adi kyerɛ",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.6
+  },
+  {
+    "id": 173,
+    "prompt_id": "ghana_prompt_0173",
+    "audio_file": "audio/prompt_0173_command_warning_warning.wav",
+    "english_text": "Take it easy. This is his own house.",
+    "twi_text": "aane ɛnyɛ adeɛ atease uhuh nti wei deɛ nya aboterɛ aane firi fie ha na ɔnoa",
+    "primary_category": "command_warning",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "directive",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 175,
+    "prompt_id": "ghana_prompt_0175",
+    "audio_file": "audio/prompt_0175_wisdom_reflection_lore.wav",
+    "english_text": "And we won't waste any time on what's left to be done.",
+    "twi_text": "mate naa deɛ aka akyire biara nso yɛntwentwɛn nan ase koraa",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 4.49
+  },
+  {
+    "id": 176,
+    "prompt_id": "ghana_prompt_0176",
+    "audio_file": "audio/prompt_0176_emotional_expressive_emotion.wav",
+    "english_text": "Please, don't let the troubles weigh you down at all.",
+    "twi_text": "hwɛ yie nti mesrɛ wo deɛ wookɔ mu no deɛ mmarima no mmu wo aba mu koraa",
+    "primary_category": "emotional_expressive",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "emotional_speech",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 4.08
+  },
+  {
+    "id": 179,
+    "prompt_id": "ghana_prompt_0179",
+    "audio_file": "audio/prompt_0179_conversational_banter_greeting.wav",
+    "english_text": "And this is my only brother.",
+    "twi_text": "ɛna me nua barima ɔda mu ba",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.08
+  },
+  {
+    "id": 180,
+    "prompt_id": "ghana_prompt_0180",
+    "audio_file": "audio/prompt_0180_emotional_expressive_consolation.wav",
+    "english_text": "I beg you. If she has in any way disrespect ed you, she is sorry.",
+    "twi_text": "mepa wo kyɛw wate we",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 2.12
+  },
+  {
+    "id": 181,
+    "prompt_id": "ghana_prompt_0181",
+    "audio_file": "audio/prompt_0181_inquiry_investigation_reaction.wav",
+    "english_text": "I'm fine. I'm fine.",
+    "twi_text": "ah adwumako adaroma",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.61
+  },
+  {
+    "id": 182,
+    "prompt_id": "ghana_prompt_0182",
+    "audio_file": "audio/prompt_0182_inquiry_investigation_inquiry.wav",
+    "english_text": "What brings you here this morning?",
+    "twi_text": "na anɔpa yi menkaa bi nhyɛ mu anɔpa tutu kwabena mepawokyew me adɛn ɛdeɛn asɛm",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 7.49
+  },
+  {
+    "id": 183,
+    "prompt_id": "ghana_prompt_0183",
+    "audio_file": "audio/prompt_0183_conflict_confrontation_combat.wav",
+    "english_text": "I will wipe them all out.",
+    "twi_text": "ɔmo nyinaa ase",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 1.61
+  },
+  {
+    "id": 184,
+    "prompt_id": "ghana_prompt_0184",
+    "audio_file": "audio/prompt_0184_command_warning_warning.wav",
+    "english_text": "Do it fast.",
+    "twi_text": "yɛ no ntɛm",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 185,
+    "prompt_id": "ghana_prompt_0185",
+    "audio_file": "audio/prompt_0185_conversational_banter_quest_discussion.wav",
+    "english_text": "We are therefore tactical in dealing with them.",
+    "twi_text": "atena enti ɔmo yɛ saa na yɛde akrɔkrɔ na ɛne ɔmo tenaa sɛ ɔbaa",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 3.84
+  },
+  {
+    "id": 186,
+    "prompt_id": "ghana_prompt_0186",
+    "audio_file": "audio/prompt_0186_conflict_confrontation_combat.wav",
+    "english_text": "You will be dead already.",
+    "twi_text": "woka saa na wawu dada oo",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 1.96
+  },
+  {
+    "id": 187,
+    "prompt_id": "ghana_prompt_0187",
+    "audio_file": "audio/prompt_0187_inquiry_investigation_warning.wav",
+    "english_text": "Assistme.",
+    "twi_text": "maame",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.12
+  },
+  {
+    "id": 188,
+    "prompt_id": "ghana_prompt_0188",
+    "audio_file": "audio/prompt_0188_conflict_confrontation_combat.wav",
+    "english_text": "If you joke with me I will have you arrested.",
+    "twi_text": "me wode me di agorɔ mɛtwa wo ato mu",
+    "primary_category": "conflict_confrontation",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "confrontation",
+      "playful",
+      "witty"
+    ],
+    "duration_sec": 3.48
+  },
+  {
+    "id": 190,
+    "prompt_id": "ghana_prompt_0190",
+    "audio_file": "audio/prompt_0190_inquiry_investigation_emotion.wav",
+    "english_text": "Cain, what do you want from me? Why you keep disgracing me?",
+    "twi_text": "adɛn wopɛsɛ woku m'anim asesa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 191,
+    "prompt_id": "ghana_prompt_0191",
+    "audio_file": "audio/prompt_0191_wisdom_reflection_reaction.wav",
+    "english_text": "Whatever will happen, has happened",
+    "twi_text": "yebesu bianc",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.68
+  },
+  {
+    "id": 193,
+    "prompt_id": "ghana_prompt_0193",
+    "audio_file": "audio/prompt_0193_inquiry_investigation_emotion.wav",
+    "english_text": "If that's what you want I will talk to him. I hope it works.",
+    "twi_text": "ah sɛ saa na wopɛ no dea me ne no bɛka ho asɛm sɛ ɛbɛyɛ yie deɛ a",
+    "primary_category": "inquiry_investigation",
+    "emotion": "playful_humor",
+    "delivery_style": "playful_witty",
+    "sub_labels": [
+      "inquiry",
+      "playful",
+      "livelihood",
+      "witty"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 194,
+    "prompt_id": "ghana_prompt_0194",
+    "audio_file": "audio/prompt_0194_conversational_banter_kill_denial.wav",
+    "english_text": "And I stopped you from killing.",
+    "twi_text": "ɛna manya ama wo anku",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "intimidation"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 195,
+    "prompt_id": "ghana_prompt_0195",
+    "audio_file": "audio/prompt_0195_command_warning_warning.wav",
+    "english_text": "Calm down.",
+    "twi_text": "hwɛ",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 1.04
+  },
+  {
+    "id": 196,
+    "prompt_id": "ghana_prompt_0196",
+    "audio_file": "audio/prompt_0196_conflict_confrontation_emotion.wav",
+    "english_text": "Precious, you just snubbed me.",
+    "twi_text": "jesus wontua fa me so",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "sharp"
+    ],
+    "duration_sec": 2.96
+  },
+  {
+    "id": 197,
+    "prompt_id": "ghana_prompt_0197",
+    "audio_file": "audio/prompt_0197_conversational_banter_reaction.wav",
+    "english_text": "It's not about the love.",
+    "twi_text": "ɛnyɛ ɛda no o",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "affection"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 199,
+    "prompt_id": "ghana_prompt_0199",
+    "audio_file": "audio/prompt_0199_conversational_banter_reaction.wav",
+    "english_text": "That's all you know.",
+    "twi_text": "deɛ ɔnim ara no no",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 2.56
+  },
+  {
+    "id": 201,
+    "prompt_id": "ghana_prompt_0201",
+    "audio_file": "audio/prompt_0201_emotional_expressive_emotion.wav",
+    "english_text": "So please understand me. Ok! Everything will be alright",
+    "twi_text": "mm wate biribiara bɛyɛ bɔkɔɔ deɛ woaka ho asɛm wai me nua m'ani",
+    "primary_category": "emotional_expressive",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "emotional_speech",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 5.92
+  },
+  {
+    "id": 202,
+    "prompt_id": "ghana_prompt_0202",
+    "audio_file": "audio/prompt_0202_inquiry_investigation_inquiry.wav",
+    "english_text": "i want to search for you, you weren't there, what is the problem.",
+    "twi_text": "hwɛ hwan na ayi so",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 3.24
+  },
+  {
+    "id": 203,
+    "prompt_id": "ghana_prompt_0203",
+    "audio_file": "audio/prompt_0203_emotional_expressive_emotion.wav",
+    "english_text": "I would have been hurt if he had forgotten me.",
+    "twi_text": "sister na yɛ deɛ maame nka no werɛ fi me koraa anka mɛyɛ me ya",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 3.11
+  },
+  {
+    "id": 204,
+    "prompt_id": "ghana_prompt_0204",
+    "audio_file": "audio/prompt_0204_inquiry_investigation_warning.wav",
+    "english_text": "Let him come and live here with you",
+    "twi_text": "ma no bɛtena fie ha",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.88
+  },
+  {
+    "id": 205,
+    "prompt_id": "ghana_prompt_0205",
+    "audio_file": "audio/prompt_0205_command_warning_warning.wav",
+    "english_text": "If you are not careful someone will kick you",
+    "twi_text": "oh daabi obi bɛbɔ wo sei fom",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "commanding"
+    ],
+    "duration_sec": 3.72
+  },
+  {
+    "id": 206,
+    "prompt_id": "ghana_prompt_0206",
+    "audio_file": "audio/prompt_0206_inquiry_investigation_inquiry.wav",
+    "english_text": "Where's this girl?",
+    "twi_text": "akwadaa yi ɔwɔ he",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.94
+  },
+  {
+    "id": 207,
+    "prompt_id": "ghana_prompt_0207",
+    "audio_file": "audio/prompt_0207_wisdom_reflection_lore.wav",
+    "english_text": "She is the one.",
+    "twi_text": "masa ei w'ano o",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.2
+  },
+  {
+    "id": 208,
+    "prompt_id": "ghana_prompt_0208",
+    "audio_file": "audio/prompt_0208_conflict_confrontation_reaction.wav",
+    "english_text": "What have i done am i not the same person",
+    "twi_text": "ɛnyɛ mea me nie",
+    "primary_category": "conflict_confrontation",
+    "emotion": "defensive_disbelief",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "defensive",
+      "sharp"
+    ],
+    "duration_sec": 3.28
+  },
+  {
+    "id": 209,
+    "prompt_id": "ghana_prompt_0209",
+    "audio_file": "audio/prompt_0209_greeting_social_greeting.wav",
+    "english_text": "Are you back?",
+    "twi_text": "wahu saa waba",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 2.56
+  },
+  {
+    "id": 210,
+    "prompt_id": "ghana_prompt_0210",
+    "audio_file": "audio/prompt_0210_inquiry_investigation_inquiry.wav",
+    "english_text": "What about this house?",
+    "twi_text": "efie yi so",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 211,
+    "prompt_id": "ghana_prompt_0211",
+    "audio_file": "audio/prompt_0211_conflict_confrontation_emotion.wav",
+    "english_text": "You went after little girls. Now you want to worry me.",
+    "twi_text": "wo sɔre kɔ gye no nkwadaa nketenkete wei afei na na wobɛgyina ha",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "sharp"
+    ],
+    "duration_sec": 4.0
+  },
+  {
+    "id": 212,
+    "prompt_id": "ghana_prompt_0212",
+    "audio_file": "audio/prompt_0212_wisdom_reflection_lore.wav",
+    "english_text": "And they continue to torment us.",
+    "twi_text": "ɔmo gu so ɛyɛ",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.32
+  },
+  {
+    "id": 213,
+    "prompt_id": "ghana_prompt_0213",
+    "audio_file": "audio/prompt_0213_conversational_banter_reaction.wav",
+    "english_text": "They don't resemble hers.",
+    "twi_text": "yes",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.92
+  },
+  {
+    "id": 214,
+    "prompt_id": "ghana_prompt_0214",
+    "audio_file": "audio/prompt_0214_emotional_expressive_love_declaration.wav",
+    "english_text": "I have made him understand how I love you.",
+    "twi_text": "ɛna papa no ara nso mama no ahunu ɔdɔ a mede dɔ me ba ɔnim sɛ wonim sɛ ne wo ntam teɛ",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 5.84
+  },
+  {
+    "id": 215,
+    "prompt_id": "ghana_prompt_0215",
+    "audio_file": "audio/prompt_0215_emotional_expressive_emotion.wav",
+    "english_text": "Look at what is happening to me, because of love.",
+    "twi_text": "hwɛ deɛ yɛyɛ meeting ɔdɔ bi na asisi m'aso yie",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 5.6
+  },
+  {
+    "id": 217,
+    "prompt_id": "ghana_prompt_0217",
+    "audio_file": "audio/prompt_0217_conversational_banter_reaction.wav",
+    "english_text": "I have convinced her, but she said she won't go.",
+    "twi_text": "maka bi a ɔse ɔnkɔ ɛnyɛ ne ho asɛm na mereka no ada",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 3.0
+  },
+  {
+    "id": 218,
+    "prompt_id": "ghana_prompt_0218",
+    "audio_file": "audio/prompt_0218_conversational_banter_reaction.wav",
+    "english_text": "You are like a cameleon. She has calmed both sides.",
+    "twi_text": "ɔtwa ha na wabɛtwa ha ei",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 4.56
+  },
+  {
+    "id": 219,
+    "prompt_id": "ghana_prompt_0219",
+    "audio_file": "audio/prompt_0219_conversational_banter_reaction.wav",
+    "english_text": "They are crazy.",
+    "twi_text": "wabɔdam papa mo ba na moaba biom rough rough sɛ odwan a waba asesa yɛba ha na",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 220,
+    "prompt_id": "ghana_prompt_0220",
+    "audio_file": "audio/prompt_0220_emotional_expressive_emotion.wav",
+    "english_text": "God will punish whoever orchestrated this",
+    "twi_text": "mpo nanipa o sister me wu no me saman no ma nyankopɔn",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 221,
+    "prompt_id": "ghana_prompt_0221",
+    "audio_file": "audio/prompt_0221_greeting_social_blessing.wav",
+    "english_text": "May the gods help you.",
+    "twi_text": "henanom mmoa wate",
+    "primary_category": "greeting_social",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "greeting",
+      "gratitude",
+      "blessing",
+      "gentle"
+    ],
+    "duration_sec": 1.82
+  },
+  {
+    "id": 222,
+    "prompt_id": "ghana_prompt_0222",
+    "audio_file": "audio/prompt_0222_emotional_expressive_emotion.wav",
+    "english_text": "Please, I'm fine.",
+    "twi_text": "mepa wo kyɛw bɔkɔɔ",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 223,
+    "prompt_id": "ghana_prompt_0223",
+    "audio_file": "audio/prompt_0223_conflict_confrontation_lore.wav",
+    "english_text": "What's it? Your daughter is reaping the fruits of your sins.",
+    "twi_text": "ɛka job ah abɔne na mayɛ no wo na mo ba na wanya tracker ɔyiwa",
+    "primary_category": "conflict_confrontation",
+    "emotion": "indignation_outrage",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "indignation",
+      "sharp"
+    ],
+    "duration_sec": 7.4
+  },
+  {
+    "id": 224,
+    "prompt_id": "ghana_prompt_0224",
+    "audio_file": "audio/prompt_0224_conflict_confrontation_combat.wav",
+    "english_text": "If you bother me I will nail you to the chair.",
+    "twi_text": "wo sɛ wogyegye me a mede prɛko bɛbɔ wo nsam abɔ ma akonnwa no",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 4.28
+  },
+  {
+    "id": 225,
+    "prompt_id": "ghana_prompt_0225",
+    "audio_file": "audio/prompt_0225_inquiry_investigation_inquiry.wav",
+    "english_text": "Is it because of the condition of my place?",
+    "twi_text": "ei nti anaa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.16
+  },
+  {
+    "id": 226,
+    "prompt_id": "ghana_prompt_0226",
+    "audio_file": "audio/prompt_0226_emotional_expressive_emotion.wav",
+    "english_text": "I can work hard to for you and our daughter.",
+    "twi_text": "mɛtumi ayɛ adwuma kama ama sika aba mmaa no sɛ merebɛfa wo ne akwadaa yi woa",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "livelihood",
+      "gentle"
+    ],
+    "duration_sec": 7.68
+  },
+  {
+    "id": 227,
+    "prompt_id": "ghana_prompt_0227",
+    "audio_file": "audio/prompt_0227_wisdom_reflection_lore.wav",
+    "english_text": "He will be brought home.",
+    "twi_text": "yɛbɛteɛ woyɛ de no reba",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.04
+  },
+  {
+    "id": 228,
+    "prompt_id": "ghana_prompt_0228",
+    "audio_file": "audio/prompt_0228_emotional_expressive_emotion.wav",
+    "english_text": "You won't have sex with me.",
+    "twi_text": "so wo ne me o",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 1.6
+  },
+  {
+    "id": 229,
+    "prompt_id": "ghana_prompt_0229",
+    "audio_file": "audio/prompt_0229_inquiry_investigation_inquiry.wav",
+    "english_text": "Are you taking about the man or the wife?",
+    "twi_text": "wo bra barima na anaa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 2.64
+  },
+  {
+    "id": 230,
+    "prompt_id": "ghana_prompt_0230",
+    "audio_file": "audio/prompt_0230_inquiry_investigation_greeting.wav",
+    "english_text": "It's morning Why are you still sleeping?",
+    "twi_text": "adeɛkye na adɛn na wode dɛn",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "intimate_thought",
+      "interrogative"
+    ],
+    "duration_sec": 2.68
+  },
+  {
+    "id": 231,
+    "prompt_id": "ghana_prompt_0231",
+    "audio_file": "audio/prompt_0231_emotional_expressive_emotion.wav",
+    "english_text": "It's not your fault.",
+    "twi_text": "na ɛnyɛ wo mfomsoɔ",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 1.48
+  },
+  {
+    "id": 234,
+    "prompt_id": "ghana_prompt_0234",
+    "audio_file": "audio/prompt_0234_emotional_expressive_marriage.wav",
+    "english_text": "What wrong did I do by marrying here?",
+    "twi_text": "na mereba abɛware aburokyire na ɛyɛ anaa asɛe maame a mereka yi",
+    "primary_category": "emotional_expressive",
+    "emotion": "remorse_contrition",
+    "delivery_style": "sorrowful_somber",
+    "sub_labels": [
+      "emotional_speech",
+      "remorse",
+      "somber"
+    ],
+    "duration_sec": 4.56
+  },
+  {
+    "id": 235,
+    "prompt_id": "ghana_prompt_0235",
+    "audio_file": "audio/prompt_0235_conversational_banter_reaction.wav",
+    "english_text": "You've put on weight. You don't want to work.",
+    "twi_text": "wo sisi na woyere oto nyinaa na ayere petee menyɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "livelihood"
+    ],
+    "duration_sec": 6.4
+  },
+  {
+    "id": 237,
+    "prompt_id": "ghana_prompt_0237",
+    "audio_file": "audio/prompt_0237_conversational_banter_reaction.wav",
+    "english_text": "So everything is in place.",
+    "twi_text": "nti biribiara da no kwan",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.94
+  },
+  {
+    "id": 238,
+    "prompt_id": "ghana_prompt_0238",
+    "audio_file": "audio/prompt_0238_inquiry_investigation_inquiry.wav",
+    "english_text": "Is that the way you see it?",
+    "twi_text": "saa na wohu no suban bɔne",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 3.64
+  },
+  {
+    "id": 239,
+    "prompt_id": "ghana_prompt_0239",
+    "audio_file": "audio/prompt_0239_wisdom_reflection_lore.wav",
+    "english_text": "You would have been found guilty by the law.",
+    "twi_text": "anka wobɛnya aban amane",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 1.76
+  },
+  {
+    "id": 240,
+    "prompt_id": "ghana_prompt_0240",
+    "audio_file": "audio/prompt_0240_conversational_banter_emotion.wav",
+    "english_text": "How could an Elder do that. She simply hates me.",
+    "twi_text": "akwadaa no w'anim nhyia wɔ fie",
+    "primary_category": "conversational_banter",
+    "emotion": "defensive_disbelief",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "colloquial_banter",
+      "defensive",
+      "sharp"
+    ],
+    "duration_sec": 7.36
+  },
+  {
+    "id": 241,
+    "prompt_id": "ghana_prompt_0241",
+    "audio_file": "audio/prompt_0241_inquiry_investigation_inquiry.wav",
+    "english_text": "Were you arguing with him?",
+    "twi_text": "wo ne no yiyii anaa",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.68
+  },
+  {
+    "id": 242,
+    "prompt_id": "ghana_prompt_0242",
+    "audio_file": "audio/prompt_0242_conversational_banter_reaction.wav",
+    "english_text": "I can see she is being a bit suspicious.",
+    "twi_text": "mehunu sɛ asɛ deɛ ɔyɛ sure",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 3.48
+  },
+  {
+    "id": 243,
+    "prompt_id": "ghana_prompt_0243",
+    "audio_file": "audio/prompt_0243_conversational_banter_reaction.wav",
+    "english_text": "I went out to look.",
+    "twi_text": "nka meretua akɔhwɛ",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.44
+  },
+  {
+    "id": 245,
+    "prompt_id": "ghana_prompt_0245",
+    "audio_file": "audio/prompt_0245_greeting_social_blessing.wav",
+    "english_text": "My dear, God bless you.",
+    "twi_text": "ɔdɔ nyame nhyira wo wate",
+    "primary_category": "greeting_social",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "greeting",
+      "gratitude",
+      "blessing",
+      "gentle"
+    ],
+    "duration_sec": 1.76
+  },
+  {
+    "id": 246,
+    "prompt_id": "ghana_prompt_0246",
+    "audio_file": "audio/prompt_0246_inquiry_investigation_inquiry.wav",
+    "english_text": "What you will tell Uncle will go a long way to make him change his mind.",
+    "twi_text": "deɛ ɔbɛka akyerɛ wɔfano wɔfa adwene asesa nti papa fa me ne ahokyerɛ wo",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 7.52
+  },
+  {
+    "id": 247,
+    "prompt_id": "ghana_prompt_0247",
+    "audio_file": "audio/prompt_0247_emotional_expressive_emotion.wav",
+    "english_text": "You are on the road to taking your documents.",
+    "twi_text": "ei hwɛ ma menka nkyerɛ wo ara na woregye no seesei afei na wa paa nso de ahyɛ wonya",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 7.92
+  },
+  {
+    "id": 248,
+    "prompt_id": "ghana_prompt_0248",
+    "audio_file": "audio/prompt_0248_command_warning_family.wav",
+    "english_text": "Don't quarrel with your father.",
+    "twi_text": "me ne wo papa ntɔkwa",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "family_matter",
+      "commanding"
+    ],
+    "duration_sec": 2.0
+  },
+  {
+    "id": 249,
+    "prompt_id": "ghana_prompt_0249",
+    "audio_file": "audio/prompt_0249_command_warning_warning.wav",
+    "english_text": "Get out of here get out.",
+    "twi_text": "wonim sika metua firi ha kɔ",
+    "primary_category": "command_warning",
+    "emotion": "authoritative_stern",
+    "delivery_style": "authoritative_commanding",
+    "sub_labels": [
+      "directive",
+      "authoritative",
+      "eviction",
+      "commanding"
+    ],
+    "duration_sec": 3.08
+  },
+  {
+    "id": 250,
+    "prompt_id": "ghana_prompt_0250",
+    "audio_file": "audio/prompt_0250_emotional_expressive_emotion.wav",
+    "english_text": "Almighty God",
+    "twi_text": "tweduampɔn nya",
+    "primary_category": "emotional_expressive",
+    "emotion": "gratitude_reverence",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "gratitude",
+      "gentle"
+    ],
+    "duration_sec": 1.28
+  },
+  {
+    "id": 251,
+    "prompt_id": "ghana_prompt_0251",
+    "audio_file": "audio/prompt_0251_inquiry_investigation_inquiry.wav",
+    "english_text": "How so?",
+    "twi_text": "saa adɛn",
+    "primary_category": "inquiry_investigation",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "inquiry",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 1.24
+  },
+  {
+    "id": 252,
+    "prompt_id": "ghana_prompt_0252",
+    "audio_file": "audio/prompt_0252_greeting_social_reaction.wav",
+    "english_text": "I'm fine by the grace of the gods.",
+    "twi_text": "nananom adaroma ɛyɛ kakra oo",
+    "primary_category": "greeting_social",
+    "emotion": "joy_warmth",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "greeting",
+      "joy",
+      "conversational"
+    ],
+    "duration_sec": 4.28
+  },
+  {
+    "id": 254,
+    "prompt_id": "ghana_prompt_0254",
+    "audio_file": "audio/prompt_0254_greeting_social_greeting.wav",
+    "english_text": "What brings you here today?",
+    "twi_text": "sei no nso yɛbɛbisa aha deɛ brɛ wo",
+    "primary_category": "greeting_social",
+    "emotion": "curious_inquisitive",
+    "delivery_style": "inquisitive_probing",
+    "sub_labels": [
+      "greeting",
+      "curious",
+      "interrogative"
+    ],
+    "duration_sec": 3.36
+  },
+  {
+    "id": 255,
+    "prompt_id": "ghana_prompt_0255",
+    "audio_file": "audio/prompt_0255_negotiation_trade_quest_discussion.wav",
+    "english_text": "I accept your proposal.",
+    "twi_text": "wodeɛ mate ase",
+    "primary_category": "negotiation_trade",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "negotiation",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 1.8
+  },
+  {
+    "id": 256,
+    "prompt_id": "ghana_prompt_0256",
+    "audio_file": "audio/prompt_0256_conversational_banter_reaction.wav",
+    "english_text": "I had a conversation with her and she said she came here for a funeral.",
+    "twi_text": "ɛnna me ne no redi nkɔmmɔ nti yɛredi nkɔmɔ no na ɔno koraa kyerɛ me sɛ ɔbaa ayie bi wɔ ha mhm",
+    "primary_category": "conversational_banter",
+    "emotion": "conversational_neutral",
+    "delivery_style": "casual_conversational",
+    "sub_labels": [
+      "colloquial_banter",
+      "conversational",
+      "spoken_twi"
+    ],
+    "duration_sec": 5.56
+  },
+  {
+    "id": 257,
+    "prompt_id": "ghana_prompt_0257",
+    "audio_file": "audio/prompt_0257_emotional_expressive_emotion.wav",
+    "english_text": "You will live by the grace of the gods.",
+    "twi_text": "nananom nti wobɛtena",
+    "primary_category": "emotional_expressive",
+    "emotion": "affection_warmth",
+    "delivery_style": "warm_gentle",
+    "sub_labels": [
+      "emotional_speech",
+      "affection",
+      "gentle"
+    ],
+    "duration_sec": 1.53
+  },
+  {
+    "id": 258,
+    "prompt_id": "ghana_prompt_0258",
+    "audio_file": "audio/prompt_0258_conflict_confrontation_combat.wav",
+    "english_text": "You will see.",
+    "twi_text": "sika aba na wobɛhu",
+    "primary_category": "conflict_confrontation",
+    "emotion": "anger_aggression",
+    "delivery_style": "indignant_sharp",
+    "sub_labels": [
+      "confrontation",
+      "anger",
+      "sharp"
+    ],
+    "duration_sec": 1.52
+  },
+  {
+    "id": 259,
+    "prompt_id": "ghana_prompt_0259",
+    "audio_file": "audio/prompt_0259_wisdom_reflection_lore.wav",
+    "english_text": "you'd have been found guilty by the law.",
+    "twi_text": "ɔno anka wobɛnya aban amaneɛ",
+    "primary_category": "wisdom_reflection",
+    "emotion": "calm_reassurance",
+    "delivery_style": "reflective_measured",
+    "sub_labels": [
+      "wisdom_counsel",
+      "calm",
+      "reflective"
+    ],
+    "duration_sec": 2.4
+  }
+]

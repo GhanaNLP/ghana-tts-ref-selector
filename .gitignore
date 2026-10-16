@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+session-*.md
+kumawood_game_dialogue_excellent.*
+build_dataset_and_matcher.py
